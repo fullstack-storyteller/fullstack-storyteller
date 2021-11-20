@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @fullstack-storyteller
+# Hello World
+
+👋 Hi, I’m @fullstack-storyteller a.k.a Manish.
+
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on opensource projects
