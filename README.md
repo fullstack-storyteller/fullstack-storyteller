@@ -3,7 +3,7 @@
 Hi, I’m @fullstack-storyteller a.k.a Manish.
 
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 Reach me: manish.aec2012@gmail.com
 
